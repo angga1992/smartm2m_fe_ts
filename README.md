@@ -181,13 +181,13 @@ The quiz includes 10 comprehensive test cases:
 
 ## Live Demo
 
-[View Live Demo](your-demo-url-here)
+[View Live Demo](https://smartm2m-fe-ts.vercel.app/)
 
 ## Author
 
 **Your Name**  
-Email: your.email@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)
+Email: anggamulya.ghazy@gmail.com  
+GitHub: [@angga1992](https://github.com/angga1992)
 
 ## License
 

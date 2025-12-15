@@ -34,7 +34,6 @@
   - `Content-Type: application/json`
   - `Authorization: Basic <BASE64>` where `<BASE64>` is the Base64 encoding of the literal string:
 
-    `fe-test-candidate:HRUIY87zQAbQ7Lvo2OHA4yr8ifQRxcD0jvEVZh2U4qa7YWOywfSJP4kv6MGppwkdi`
 
   _(i.e., Basic Auth header must be the Base64 of `username:password`)_
 
